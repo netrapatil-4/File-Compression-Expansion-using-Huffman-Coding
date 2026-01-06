@@ -94,4 +94,3 @@ To do:
 * Binary files, like jpeg,mp3 support
 * Run scan to group repeating bit patterns, not bit.
 * Unicode support
-* Move entire codebase to python, use neural network to compress files.
